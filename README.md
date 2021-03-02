@@ -1,6 +1,4 @@
-# react-microfrontend-sample
-
-## aaa
+# 動かし方
 
 1. mfe1を動かす
 ```
@@ -16,3 +14,4 @@ npm run start
 
 3. http://localhost:8082/ にアクセス
 
+![microfrontend](docs/img/2021-03-03_00h43_38.png)
